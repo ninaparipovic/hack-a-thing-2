@@ -23,6 +23,8 @@ I used the [recharts library](https://recharts.org/en-US/) to create a graph wit
 
 I learnt that there are many useful librarys out there that can be imported to create clean designs and avoid reinventing the wheel. This is something that I really want to leverage for my final project so that I can spend more time on the functionality rather than the UI. 
 
+In terms of what didn't work well, I struggled a lot with getting the css right. I tried to complete it myself rather than copying what the demo did. I still struggle with when to use padding vs margins vs flex boxes. 
+
 ## Authors
 
 Nina Paripovic
